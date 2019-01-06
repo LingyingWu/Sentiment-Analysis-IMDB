@@ -6,3 +6,14 @@ DeepLearningMovies
 Original Repository: https://github.com/wendykan/DeepLearningMovies  
   
 Deadline: 2019/01/05
+
+
+## Results (without neural network)
+
+Learning method: **Bag of Words** + Logistic Regression
+
+max_features | 2500 | 3000 | 3500
+--- | --- | --- | ---
+unigram | 0.8678 | 0.8665 | 0.8654
+bigram | 0.8694 | 0.8575 | 0.8689
+trigram | 0.8693 |  | 0.8684
