@@ -3,4 +3,7 @@ data/*
 
 .ipynb_checkpoints/
 
-*.py
+BagOfWords.py
+KaggleWord2VecUtility.py
+Word2Vec_AverageVectors.py
+Word2Vec_BagOfCentroids.py
