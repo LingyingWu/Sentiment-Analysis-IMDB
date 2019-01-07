@@ -4,7 +4,7 @@ data/*
 .python-version
 .ipynb_checkpoints/
 
-feature300-minwords40-context10
+features300-minwords40-context10
 
 BagOfWords.py
 KaggleWord2VecUtility.py
