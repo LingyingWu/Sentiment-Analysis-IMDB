@@ -1,6 +1,7 @@
 .DS_Store
 data/*
 
+.python_version
 .ipynb_checkpoints/
 
 BagOfWords.py
