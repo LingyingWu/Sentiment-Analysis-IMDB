@@ -2,10 +2,12 @@
 
 DeepLearningMovies 
 
-**Kaggle's competition** for using Google's word2vec package for sentiment analysis  
+[**Kaggle's competition**](https://www.kaggle.com/c/word2vec-nlp-tutorial) for using Google's word2vec package for sentiment analysis.  
 Original Repository: https://github.com/wendykan/DeepLearningMovies  
   
-Deadline: 2019/01/05
+
+Final project of **Perceptual Computing** from Waseda Univ.
+Deadline: 2019/01/15
 
 
 ## Results (without neural network)
