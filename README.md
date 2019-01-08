@@ -2,13 +2,15 @@
 
 DeepLearningMovies 
 
-**Kaggle's competition** for using Google's word2vec package for sentiment analysis  
+[**Kaggle's competition**](https://www.kaggle.com/c/word2vec-nlp-tutorial) for using Google's word2vec package for sentiment analysis.  
 Original Repository: https://github.com/wendykan/DeepLearningMovies  
   
-Deadline: 2019/01/05
+
+Final project of **Perceptual Computing** from Waseda Univ.  
+Deadline: 2019/01/15
 
 
-## Results (without neural network)
+## Results
 
 Learning method: **Bag of Words** + Logistic Regression
 
@@ -17,3 +19,11 @@ max_features | 2500 | 3000 | 3500
 unigram | 0.8678 | 0.8665 | 0.8654
 bigram | 0.8694 | 0.8575 | 0.8689
 trigram | 0.8693 |  | 0.8684
+
+Learning method: **Word2Vec** + CNN
+
+CNN Description | droupout | num_filters | kernel_size | score
+--- | --- | --- | --- | ---
+simple | 0.2 | 64 | 2 | 0.8852
+simple | 0.5 | 64 | 2 | 0.8888
+simple | 0.8 | 64 | 2 | 0.8938
