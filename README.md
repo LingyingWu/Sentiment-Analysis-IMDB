@@ -1,3 +1,5 @@
+This is a tutorial competition we did as our final project.
+
 # Bag of Words Meets Bags of Popcorn
 
 DeepLearningMovies 
@@ -28,3 +30,5 @@ droupout | num_filters | kernel_size | epoch | score
 0.2 | 64 | 2 | 6 | 0.8852
 0.5 | 64 | 2 | 6 | 0.8888
 0.8 | 64 | 2 | 6 | 0.8938
+
+Remarks: For other results, please refer to [this repo](https://github.com/OscarWang114/sentiment-analysis-imdb) owned by another team member.
