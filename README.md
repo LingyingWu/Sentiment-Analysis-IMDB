@@ -12,7 +12,7 @@ Deadline: 2019/01/15
 
 ## Results
 
-Learning method: **Bag of Words** + **Logistic Regression**
+- **Bag of Words** + **Logistic Regression**
 
 max_features | 2500 | 3000 | 3500
 :--- | :---: | :---: | :---:
@@ -21,7 +21,7 @@ bigram | 0.8694 | 0.8575 | 0.8689
 trigram | 0.8693 | - | 0.8684
   
 
-Learning method: **Word2Vec** + **CNN**
+- **Word2Vec** + **CNN**
 
 droupout | num_filters | kernel_size | epoch | score
 :---: | :---: | :---: | :---: | :---:
